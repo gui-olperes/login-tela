@@ -1,4 +1,4 @@
-# Tela de loginn feita com react
+# Tela de login feita com react
 
 - Contém CSS e React.
 
